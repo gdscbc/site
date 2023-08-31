@@ -1,0 +1,4 @@
+/* This style sheet is available to every component of the app */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css"
+
